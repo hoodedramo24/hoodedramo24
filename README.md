@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 My name is Omar Alcide and love to build and learn new technologies (Usually in Web)\
-I'm currently learning Spring Boot, Rust + Wasmtime and React.
+I'm currently learning Spring Boot/Node.js, ML/AI and React.
+
 
 Reach me @ <a href="https://www.linkedin.com/in/omar-alcide-248143143"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 
