@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My name is Omar Alcide and love to build and learn new technologies (Usually in Web)\
-I'm currently learning React with Express.js or Spring Boot and Infrastructure using Azure.
+My name is Omar Alcide and love to build and learn new technologies \
+I'm skilled in Java using Spring Boot and Cloud Infrastructure using Azure.
 
 
 Reach me @ <a href="https://www.linkedin.com/in/omar-alcide-248143143"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
