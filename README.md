@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Omar Alcide and love to build and learn new technologies. \
+My name is Omar Alcide and love to learn and build network services. \
 I'm skilled in Java using Spring Boot and Cloud Infrastructure using Azure.
 
 
